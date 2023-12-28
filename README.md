@@ -8,7 +8,7 @@ sudo update-alternatives –-set php /usr/bin/php(versão)
 
 #### Alterar hora sistema Linux Ubuntu
 ```shell
-timedatectl set-time '2015-11-20 16:14:50'
+sudo timedatectl set-time '2023-12-28 11:27:50'
 ```
 
 #### Habilitar chave no Agente SSH
